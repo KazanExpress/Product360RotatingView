@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Product360RotatingView">
+        <attr name="rotations_per_screen" format="float" />
+        <attr name="reversed_rotation" format="boolean" />
+    </declare-styleable>
+</resources>
